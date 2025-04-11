@@ -1009,3 +1009,220 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+**Curated DSA Problem Set** — topic-wise, with 90–95% of the patterns that appear in interviews and contests.
+
+Each topic is split into **3 levels**:  
+- **P1** – Foundation / Easy  
+- **P2** – Standard Interview Problems  
+- **P3** – Edge Cases / Advanced
+
+---
+
+## 🔷 **1. Arrays**
+
+### ✅ P1:
+- Two Sum – *LeetCode 1*  
+- Move Zeroes – *LeetCode 283*  
+- Best Time to Buy and Sell Stock – *LeetCode 121*  
+- Kadane's Algorithm – *LC 53*  
+- Left Rotate Array by K – *GFG*  
+
+### ✅ P2:
+- Merge Intervals – *LC 56*  
+- Majority Element – *LC 169*  
+- Subarray Sum Equals K – *LC 560*  
+- Next Permutation – *LC 31*  
+- Missing Number – *LC 268*  
+
+### ✅ P3:
+- Maximum Product Subarray – *LC 152*  
+- Count Inversions – *GFG / Merge Sort based*  
+- Maximum Subarray Sum in Circular Array – *LC 918*  
+- Median of Two Sorted Arrays – *LC 4*
+
+---
+
+## 🔷 **2. Strings**
+
+### ✅ P1:
+- Valid Palindrome – *LC 125*  
+- Reverse Words in a String – *LC 151*  
+- Isomorphic Strings – *LC 205*  
+- Implement strStr() – *LC 28*
+
+### ✅ P2:
+- Longest Common Prefix – *LC 14*  
+- Group Anagrams – *LC 49*  
+- Longest Substring Without Repeating Characters – *LC 3*  
+- Check for Anagrams – *LC 242*
+
+### ✅ P3:
+- Minimum Window Substring – *LC 76*  
+- Longest Palindromic Substring – *LC 5*  
+- Regular Expression Matching – *LC 10*  
+- Wildcard Matching – *LC 44*
+
+---
+
+## 🔷 **3. Linked List**
+
+### ✅ P1:
+- Reverse a Linked List – *LC 206*  
+- Detect Cycle – *LC 141*  
+- Find Middle of Linked List – *LC 876*  
+- Merge Two Sorted Lists – *LC 21*
+
+### ✅ P2:
+- Remove N-th Node from End – *LC 19*  
+- Add Two Numbers – *LC 2*  
+- Intersection of Two Linked Lists – *LC 160*  
+- Copy List with Random Pointer – *LC 138*
+
+### ✅ P3:
+- LRU Cache – *LC 146*  
+- Merge K Sorted Lists – *LC 23*  
+- Reverse Nodes in K Group – *LC 25*
+
+---
+
+## 🔷 **4. Stack & Queue**
+
+### ✅ P1:
+- Valid Parentheses – *LC 20*  
+- Min Stack – *LC 155*  
+- Implement Queue using Stacks – *LC 232*  
+- Next Greater Element I – *LC 496*
+
+### ✅ P2:
+- Daily Temperatures – *LC 739*  
+- Asteroid Collision – *LC 735*  
+- Sliding Window Maximum – *LC 239*  
+- Evaluate Reverse Polish Notation – *LC 150*
+
+### ✅ P3:
+- Largest Rectangle in Histogram – *LC 84*  
+- Trapping Rain Water – *LC 42*
+
+---
+
+## 🔷 **5. Trees & BST**
+
+### ✅ P1:
+- Inorder, Preorder, Postorder Traversals – *LC 94, 144, 145*  
+- Level Order Traversal – *LC 102*  
+- Max Depth of Binary Tree – *LC 104*  
+- Symmetric Tree – *LC 101*
+
+### ✅ P2:
+- Diameter of Binary Tree – *LC 543*  
+- Lowest Common Ancestor – *LC 236*  
+- Serialize and Deserialize Binary Tree – *LC 297*  
+- Validate BST – *LC 98*
+
+### ✅ P3:
+- Kth Smallest in BST – *LC 230*  
+- Recover Binary Search Tree – *LC 99*  
+- Path Sum III – *LC 437*  
+- All Paths from Root to Leaf – *LC 257*
+
+---
+
+## 🔷 **6. Heaps / Priority Queue**
+
+### ✅ P1:
+- Kth Largest Element in Array – *LC 215*  
+- Top K Frequent Elements – *LC 347*  
+- Sort Characters by Frequency – *LC 451*  
+- Merge K Sorted Lists – *LC 23*
+
+### ✅ P2:
+- Find Median from Data Stream – *LC 295*  
+- Task Scheduler – *LC 621*  
+- Sliding Window Median – *LC 480*  
+- Reorganize String – *LC 767*
+
+---
+
+## 🔷 **7. Tries**
+
+### ✅ P1:
+- Implement Trie – *LC 208*  
+- Word Search II – *LC 212*  
+- Replace Words – *LC 648*
+
+### ✅ P2:
+- Design Add and Search Words – *LC 211*  
+- Longest Word in Dictionary – *LC 720*  
+- Palindrome Pairs – *LC 336*
+
+---
+
+## 🔷 **8. Greedy**
+
+### ✅ P1:
+- Activity Selection / N Meetings – *GFG*  
+- Gas Station – *LC 134*  
+- Jump Game – *LC 55*  
+- Lemonade Change – *LC 860*
+
+### ✅ P2:
+- Merge Intervals – *LC 56*  
+- Minimum Number of Arrows – *LC 452*  
+- Reorganize String – *LC 767*  
+- Partition Labels – *LC 763*
+
+---
+
+## 🔷 **9. Divide & Conquer**
+
+- Merge Sort  
+- Quick Sort  
+- Search in Rotated Sorted Array – *LC 33*  
+- Count Inversions – *GFG*  
+- Median of Two Sorted Arrays – *LC 4*
+
+---
+
+## 🔷 **10. Dynamic Programming**
+
+### ✅ P1:
+- Climbing Stairs – *LC 70*  
+- House Robber – *LC 198*  
+- Unique Paths – *LC 62*  
+- Coin Change – *LC 322*
+
+### ✅ P2:
+- Longest Palindromic Subsequence – *LC 516*  
+- Edit Distance – *LC 72*  
+- Longest Common Subsequence – *LC 1143*  
+- Partition Equal Subset Sum – *LC 416*
+
+### ✅ P3:
+- Burst Balloons – *LC 312*  
+- Palindrome Partitioning II – *LC 132*  
+- Cherry Pickup – *LC 741*  
+- Regular Expression Matching – *LC 10*
+
+---
+
+## 🔷 **11. Graphs**
+
+### ✅ P1:
+- Number of Islands – *LC 200*  
+- Clone Graph – *LC 133*  
+- Detect Cycle in Graph – *GFG*  
+- BFS / DFS Traversals – *Standard*
+
+### ✅ P2:
+- Topological Sort – *Kahn’s Algo, GFG*  
+- Course Schedule – *LC 207/210*  
+- Dijkstra’s Algorithm – *LC 743*  
+- Bellman-Ford – *GFG*
+
+### ✅ P3:
+- MST (Kruskal / Prim) – *LC 1135, GFG*  
+- Union Find – *LC 684, 547*  
+- Tarjan's Algo / Bridges – *Advanced*
+
+---
+
