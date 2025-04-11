@@ -558,5 +558,60 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 - One full pass of LCA, diameter, views
 
 ---
+---
+
+## 🔷 Topic 7: **Heaps / Priority Queue**  
+🕒 **Recommended Time**: ~3–4 days
+
+---
+
+### 📅 Day 1 – **Heap Basics + Implementation**
+
+1. Implement Min Heap / Max Heap from scratch  
+2. Insert, Delete, Heapify  
+3. Heap Sort  
+4. Convert Array into Heap (buildHeap)  
+5. Kth Largest / Smallest Element in Array  
+6. Is Binary Tree a Heap?
+
+> 🎯 Goal: Understand the heap property, heapify logic, and STL/Java/Python priority queue usage
+
+---
+
+### 📅 Day 2 – **Top K / Frequency-Based Problems**
+
+1. Top K Frequent Elements  
+2. K Closest Numbers / Points to Origin  
+3. Sort Characters by Frequency  
+4. Rearrange String with No Adjacent Same  
+5. Frequency Sort  
+6. Sort a Nearly Sorted (K-sorted) Array
+
+> 🎯 Goal: Apply min/max heaps for optimized sorting and filtering
+
+---
+
+### 📅 Day 3 – **Advanced Heap Use Cases**
+
+1. Median in a Stream (Two Heaps)  
+2. Merge K Sorted Lists (again)  
+3. Find Kth Largest in a Stream  
+4. Sliding Window Median  
+5. Task Scheduler (Greedy + Heap)  
+6. Huffman Encoding Tree (Theory + Implementation)
+
+> 🎯 Goal: Handle streaming data, real-time ranking, and greedy scheduling
+
+---
+
+### 📅 Day 4 – **Mock + Mix Day**
+
+- Practice ~5–6 problems involving:  
+  - Top-K  
+  - Stream-based inputs  
+  - Heapify tricks  
+- Re-implement Heap manually once to solidify internals
+
+---
 
 
