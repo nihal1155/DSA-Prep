@@ -2,7 +2,7 @@
 
 ### 🚀 DSA Roadmap: Topic-Wise Progression (Beginner → Pro)
 
-We'll move in increasing order of complexity. Here's your **DSA Topics Blueprint**:
+We'll move in increasing order of complexity. Here's your DSA Topics Blueprint:
 
 ---
 
