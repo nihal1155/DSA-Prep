@@ -902,3 +902,110 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+---
+
+## 🔷 Topic 12: **Graphs**  
+🕒 **Recommended Time**: ~8–10 days
+
+---
+
+### 📅 Day 1 – **Graph Representations + Traversals**
+
+1. Adjacency List / Matrix / Edge List  
+2. BFS (Level-wise Traversal)  
+3. DFS (Recursive + Iterative)  
+4. Detect Cycle in Undirected Graph  
+5. Detect Cycle in Directed Graph  
+6. Connected Components (DFS/BFS-based)
+
+> 🎯 Goal: Be clear on graph modeling and basic traversals
+
+---
+
+### 📅 Day 2 – **Topological Sorting + Variants**
+
+1. Topological Sort (DFS-based)  
+2. Topo Sort using Kahn’s Algorithm (BFS)  
+3. Detect Cycle in Directed Graph using Kahn’s Algo  
+4. Course Schedule I & II  
+5. Alien Dictionary  
+6. Sort Items by Groups Respecting Dependencies
+
+---
+
+### 📅 Day 3 – **Shortest Path – Dijkstra & BFS Based**
+
+1. Dijkstra’s Algorithm (PQ-based)  
+2. 01 Matrix (Multi-source BFS)  
+3. Shortest Path in Binary Matrix  
+4. Path with Minimum Effort  
+5. Cheapest Flights Within K Stops  
+6. Network Delay Time
+
+> 🎯 Goal: Understand cost-based BFS and weighted graph traversal
+
+---
+
+### 📅 Day 4 – **Shortest Path – Bellman Ford & Floyd-Warshall**
+
+1. Bellman Ford Algorithm  
+2. Detect Negative Cycle (Bellman Ford)  
+3. Floyd-Warshall – All Pairs Shortest Path  
+4. Minimum Time to Complete All Tasks  
+5. Graph with Time-Dependent Edges  
+6. Reachable Nodes in Subdivided Graph
+
+---
+
+### 📅 Day 5 – **Minimum Spanning Tree (MST)**
+
+1. Prim’s Algorithm  
+2. Kruskal’s Algorithm (Union-Find)  
+3. Connecting Cities with Minimum Cost  
+4. Network Connection / Disconnection Problems  
+5. Redundant Connection  
+6. Optimize Water Distribution in a Village
+
+---
+
+### 📅 Day 6 – **Union-Find (Disjoint Set Union – DSU)**
+
+1. Union by Rank + Path Compression  
+2. Number of Provinces / Islands  
+3. Accounts Merge  
+4. Satisfiability of Equality Equations  
+5. Detect Cycle using DSU  
+6. Kruskal’s Algorithm (Revisit with DSU)
+
+---
+
+### 📅 Day 7 – **Graph on Grid / Maze Problems**
+
+1. Number of Islands  
+2. Surrounded Regions  
+3. Word Search  
+4. Rotting Oranges  
+5. Walls and Gates  
+6. Shortest Path in Maze with Obstacles
+
+---
+
+### 📅 Day 8 – **Advanced Graphs & Practice**
+
+1. Articulation Points and Bridges  
+2. Tarjan’s Algorithm for SCC  
+3. Kosaraju's Algorithm  
+4. Dijkstra with Heuristics (A*)  
+5. Minimum Cost to Make Graph Connected  
+6. Eulerian Path / Circuit
+
+---
+
+### 📅 Day 9 – **Mock + Revision Day**
+
+- Solve 6–8 problems across DSU, MST, Traversals  
+- Redo 2 major algorithms from scratch (Dijkstra + Kruskal/Prim)  
+- Revise template approaches for BFS, DFS, Union-Find
+
+---
+
