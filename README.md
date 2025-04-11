@@ -668,5 +668,73 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+---
+
+## 🔷 Topic 9: **Greedy Algorithms**  
+🕒 **Recommended Time**: ~4–5 days
+
+---
+
+### 📅 Day 1 – **Greedy Basics + Sorting Based Greedy**
+
+1. Activity Selection Problem  
+2. Fractional Knapsack  
+3. Minimum Number of Platforms (Train Schedule)  
+4. Job Sequencing Problem  
+5. N Meetings in One Room  
+6. Largest Number from Array (custom sort)
+
+> 🎯 Goal: Learn greedy decision-making via sorting & intervals
+
+---
+
+### 📅 Day 2 – **Greedy with Intervals & Events**
+
+1. Merge Overlapping Intervals  
+2. Insert Interval  
+3. Minimum Arrows to Burst Balloons  
+4. Gas Station (Circular Tour)  
+5. Jump Game I & II  
+6. Lemonade Change
+
+> 🎯 Goal: Solve coverage-based problems using greedy picks
+
+---
+
+### 📅 Day 3 – **Greedy in Strings & Arrays**
+
+1. Remove K Digits  
+2. Reorganize String  
+3. Minimum Number of Coins  
+4. Minimum Swaps for Bracket Balancing  
+5. Candy Distribution Problem  
+6. Boats to Save People
+
+> 🎯 Goal: Practice character and structure reordering
+
+---
+
+### 📅 Day 4 – **Greedy + PQ / Advanced Use-Cases**
+
+1. Huffman Encoding Tree (again, optional revisit)  
+2. Greedy Florist  
+3. Scheduling Meetings in Rooms (Min Heap-based)  
+4. Greedy Coloring of Graph (if touching graphs)  
+5. Task Scheduler (also solved using Heap in past)  
+6. Optimal Merge Pattern
+
+> 🎯 Goal: Combine Greedy with other data structures
+
+---
+
+### 📅 Day 5 – **Mock Day**
+
+- Try 5–7 problems in a timed session  
+- Mix of interval, string, and coin-based problems  
+- Re-validate if you can distinguish *where greedy works and where it doesn’t*
+
+---
+
+
 
 
