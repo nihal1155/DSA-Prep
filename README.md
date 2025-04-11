@@ -112,3 +112,91 @@ This includes buffer time for:
 - Tough concepts you may need to revisit
 
 ---
+
+Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if they sometimes overlap. I’ve split the roadmap into two **independent tracks** now:
+
+---
+
+## 🔷 Arrays – Topic-wise Question Set
+
+### 🟢 **Beginner**
+
+1. Find the Largest Element  
+2. Reverse the Array  
+3. Check if Array is Sorted  
+4. Remove Duplicates from Sorted Array  
+5. Left Rotate Array by One  
+6. Move All Zeros to End  
+7. Frequency of Elements (using HashMap)  
+8. Linear & Binary Search  
+9. Rotate Array (using temp array / reversal algorithm)
+
+---
+
+### 🟡 **Intermediate**
+
+10. Kadane’s Algorithm (Max Subarray Sum)  
+11. Two Sum  
+12. Sort 0s, 1s, 2s (Dutch National Flag)  
+13. Merge Two Sorted Arrays  
+14. Intersection of Two Arrays  
+15. Longest Subarray with Given Sum (Positive + 0)  
+16. Subarray with Given XOR  
+17. Rearrange Array Elements (positive/negative alternately)  
+18. Leaders in an Array  
+
+---
+
+### 🔴 **Advanced**
+
+19. Trapping Rain Water  
+20. Maximum Product Subarray  
+21. Median of Two Sorted Arrays  
+22. Find Duplicate Number (Cycle detection)  
+23. Maximum Sum Circular Subarray  
+24. Count Inversions (Merge Sort based)  
+25. Sliding Window Maximum (Deque based)  
+26. Minimum Swaps to Bring Elements < K Together
+
+---
+
+## 🔶 Strings – Topic-wise Question Set
+
+### 🟢 **Beginner**
+
+1. Check Palindrome  
+2. Reverse a String  
+3. Count Vowels & Consonants  
+4. Check Anagrams  
+5. Remove Duplicates from String  
+6. Change Case (lower → upper etc.)  
+7. Substring Generation (Brute force understanding)  
+8. String Compression (like Leetcode 443)
+
+---
+
+### 🟡 **Intermediate**
+
+9. Longest Substring Without Repeating Characters  
+10. Longest Common Prefix  
+11. Group Anagrams  
+12. Longest Palindromic Substring  
+13. Implement strstr() / indexOf()  
+14. Count and Say  
+15. Check if Rotation of Another String  
+16. Ransom Note (HashMap-based)  
+
+---
+
+### 🔴 **Advanced**
+
+17. Rabin Karp / KMP Algorithm (Pattern Matching)  
+18. Minimum Window Substring  
+19. Z Algorithm  
+20. Multiply Two Large Strings  
+21. Longest Repeating Subsequence  
+22. Wildcard Pattern Matching  
+23. Edit Distance (DP)  
+24. Remove Invalid Parentheses  
+
+---
