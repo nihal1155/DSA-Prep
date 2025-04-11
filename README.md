@@ -734,7 +734,56 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 - Re-validate if you can distinguish *where greedy works and where it doesn’t*
 
 ---
+---
 
+## 🔷 Topic 10: **Divide and Conquer**  
+🕒 **Recommended Time**: ~3–4 days
 
+---
 
+### 📅 Day 1 – **Foundations + Classic Problems**
+
+1. Binary Search (Recursive + Iterative)  
+2. Merge Sort (Divide & Conquer core)  
+3. Quick Sort (with partition logic)  
+4. Count Inversions in Array  
+5. Search in Rotated Sorted Array  
+6. Find Peak Element
+
+> 🎯 Goal: Get solid with base divide-and-conquer skeleton + recursion flow
+
+---
+
+### 📅 Day 2 – **Matrix & Modified Binary Search**
+
+1. Median of Two Sorted Arrays  
+2. Kth Element in Two Sorted Arrays  
+3. Search a 2D Matrix I & II  
+4. Find Row with Maximum Number of 1s  
+5. Matrix Exponentiation  
+6. Power Function (Fast Exponentiation)
+
+> 🎯 Goal: Understand how to break matrix/grid recursively
+
+---
+
+### 📅 Day 3 – **Harder D&C Problems**
+
+1. Maximum Subarray (Kadane vs Divide & Conquer)  
+2. Closest Pair of Points  
+3. Majority Element using D&C  
+4. Skyline Problem (LeetCode Hard)  
+5. Merge K Sorted Lists (Heap or D&C based)
+
+> 🎯 Goal: Solve tough ones using efficient subproblem merging
+
+---
+
+### 📅 Day 4 – **Mock + Recap**
+
+- 5–6 handpicked D&C problems (search, sort, subarray)  
+- Compare recursion vs iteration approach for 1–2 problems  
+- Build a recursive tree for at least one problem to visualize splits
+
+---
 
