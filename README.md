@@ -252,3 +252,91 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 23. **Implement LRU Cache (HashMap + DLL)**
 
 ---
+---
+
+## 🔷 Topic 3: **Recursion & Backtracking**  
+🕒 **Recommended Time**: ~6–7 days
+
+---
+
+### 📅 Day 1 – **Recursion Basics**
+
+1. Print Numbers (1 to N and N to 1)  
+2. Factorial Using Recursion  
+3. Fibonacci Using Recursion  
+4. Sum of Digits / Product of Digits  
+5. Check Palindrome Using Recursion  
+6. Power of a Number (Recursive + Fast Exponentiation)  
+
+> 🎯 Goal: Build recursion flowchart intuition (Call Stack Mentality)
+
+---
+
+### 📅 Day 2 – **Array/String-Based Recursion**
+
+1. Check if Array is Sorted (Recursive)  
+2. Linear Search Recursively  
+3. Binary Search Recursively  
+4. Reverse a String Recursively  
+5. Replace All Occurrences of a Character  
+6. Print All Subsequences of a String  
+
+---
+
+### 📅 Day 3 – **Backtracking Foundations**
+
+1. Subset Generation (Power Set)  
+2. String Permutations  
+3. Permutations of Array Elements  
+4. Letter Case Permutation  
+5. Generate Balanced Parentheses  
+6. Palindrome Partitioning
+
+> 🎯 Goal: Understand *Choose → Explore → Unchoose* pattern
+
+---
+
+### 📅 Day 4 – **Classic Backtracking Problems**
+
+1. N-Queens Problem  
+2. Rat in a Maze  
+3. Sudoku Solver  
+4. Word Search in Grid  
+5. M-Coloring Problem  
+6. Knights Tour Problem (optional deep dive)
+
+---
+
+### 📅 Day 5 – **Combination-Type Problems**
+
+1. Combination Sum I / II  
+2. Subsets with Duplicates  
+3. K Sum Paths (in arrays/trees)  
+4. Restore IP Addresses  
+5. Expression Add Operators (Leetcode hard but intuitive)
+
+---
+
+### 📅 Day 6 – **Tightening Skills + Optimization**
+
+- Understand Pruning Techniques  
+- Bitmasking in Backtracking (light intro)  
+- Analyze and rewrite earlier solutions iteratively
+
+---
+
+### 📅 Day 7 – **Mock Practice Set / Revision**
+
+- Mix of 5–6 problems across difficulty  
+- Try solving N-Queens or Sudoku from scratch  
+- Revisit recursion tree diagrams for tough ones
+
+---
+
+### 🔚 End Goal: Be able to:
+- Write & debug recursive solutions confidently  
+- Visualize recursion tree  
+- Backtrack with constraint handling  
+- Optimize using memoization where applicable  
+
+---
