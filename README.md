@@ -787,3 +787,118 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+---
+
+## 🔷 Topic 11: **Dynamic Programming (DP)**  
+🕒 **Recommended Time**: ~10–12 days
+
+---
+
+### 📅 Day 1 – **Intro to DP + Memoization vs Tabulation**
+
+1. Fibonacci (Recursive → Memo → Tabulation)  
+2. Climbing Stairs  
+3. Min Cost Climbing Stairs  
+4. House Robber  
+5. Decode Ways (Leetcode 91)  
+6. Count Ways to Reach Nth Step
+
+> 🎯 Goal: Build muscle memory for **overlapping subproblems** + optimal substructure
+
+---
+
+### 📅 Day 2 – **1D DP Continued**
+
+1. Jump Game  
+2. Jump Game II  
+3. Maximum Sum of Non-Adjacent Elements  
+4. Partition Equal Subset Sum  
+5. Can Sum / How Sum / Best Sum (Recursion to DP)
+
+---
+
+### 📅 Day 3 – **2D DP Basics (Grids)**
+
+1. Unique Paths I & II  
+2. Minimum Path Sum  
+3. Coin Change I & II  
+4. 0/1 Knapsack  
+5. Subset Sum  
+6. Target Sum (Transform to Subset Sum)
+
+---
+
+### 📅 Day 4 – **Strings DP I**
+
+1. Longest Common Subsequence (LCS)  
+2. Longest Palindromic Substring  
+3. Longest Palindromic Subsequence  
+4. Edit Distance  
+5. Minimum Insertions to Make Palindrome  
+6. Shortest Common Supersequence
+
+---
+
+### 📅 Day 5 – **Strings DP II**
+
+1. Wildcard Matching  
+2. Regular Expression Matching  
+3. Distinct Subsequences  
+4. Count Palindromic Substrings  
+5. Delete Operation for Two Strings  
+6. Interleaving Strings
+
+---
+
+### 📅 Day 6 – **DP on LIS / Subsequence Pattern**
+
+1. Longest Increasing Subsequence  
+2. Number of LIS  
+3. Longest Bitonic Subsequence  
+4. Maximum Sum Increasing Subsequence  
+5. Russian Doll Envelopes  
+6. Building Bridges
+
+---
+
+### 📅 Day 7 – **DP on Partitioning / Cuts**
+
+1. Palindrome Partitioning II (Min cuts)  
+2. Burst Balloons  
+3. Matrix Chain Multiplication  
+4. Optimal BST  
+5. Rod Cutting Problem  
+6. Egg Dropping Puzzle
+
+---
+
+### 📅 Day 8 – **DP on Stocks**
+
+1. Best Time to Buy and Sell Stock I–V  
+2. Buy and Sell with Cooldown  
+3. Buy and Sell with Transaction Fee  
+4. At Most K Transactions  
+5. Infinite Transactions  
+6. Single Transaction + Cooldown Combined
+
+---
+
+### 📅 Day 9 – **Advanced Patterns**
+
+1. DP on Trees (e.g. Diameter, Robbery in Binary Tree)  
+2. DP on Grids with Obstacles  
+3. DP + Bitmasking (e.g. Traveling Salesman Problem)  
+4. Minimum Cost to Merge Stones  
+5. Paint House I, II, III  
+6. Cherry Pickup I / II
+
+---
+
+### 📅 Day 10 – **Mock + High-Impact Practice**
+
+- Solve 6–8 mixed DP problems  
+- Solve 1 or 2 from scratch (without template)  
+- Review common transitions, space optimizations
+
+---
+
