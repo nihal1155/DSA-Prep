@@ -339,4 +339,67 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 - Backtrack with constraint handling  
 - Optimize using memoization where applicable  
 
+---z
+
+---
+
+## 🔷 Topic 4: **Linked List**  
+🕒 **Recommended Time**: ~4–5 days
+
+---
+
+### 📅 Day 1 – **Singly Linked List Basics**
+
+1. Implement Singly Linked List (insert, delete, traverse)  
+2. Find Length of Linked List  
+3. Search Element in Linked List  
+4. Find the Middle of the Linked List (slow-fast pointer)  
+5. Detect Loop (Floyd’s Cycle Detection)  
+6. Remove Loop from Linked List  
+
+> 🎯 Goal: Be comfortable with pointer movement and basic utilities
+
+---
+
+### 📅 Day 2 – **Classic Operations**
+
+1. Reverse a Linked List (Iterative & Recursive)  
+2. Merge Two Sorted Linked Lists  
+3. Delete Nth Node from End (two-pointer technique)  
+4. Check if Linked List is Palindrome  
+5. Intersection Point of Two Linked Lists  
+6. Remove Duplicates from Sorted List  
+
+---
+
+### 📅 Day 3 – **Advanced Patterns**
+
+1. Add Two Numbers Represented by LL  
+2. Copy List with Random Pointer  
+3. Rotate Linked List  
+4. Flatten a Multilevel Linked List  
+5. Merge K Sorted Linked Lists (using Heap)  
+6. LRU Cache (Linked List + HashMap) – revisit from Hashing  
+
+> 🎯 Goal: Handle complex node references and simulate memory structures
+
+---
+
+### 📅 Day 4 – **Doubly & Circular LL + Revision**
+
+1. Implement Doubly Linked List  
+2. Reverse Doubly Linked List  
+3. Circular Linked List – Detect Loop  
+4. Split a Circular Linked List  
+5. Practice 2–3 previously unsolved problems  
+6. Write 2–3 full implementations from scratch
+
+---
+
+### 📅 Day 5 – **Mock Problems / Assessment Day**
+
+- 5–6 mixed problems across difficulty  
+- Test under time constraint  
+- Solve at least 1 **Merge K Sorted Lists** or **Copy List with Random Pointer** from memory
+
 ---
