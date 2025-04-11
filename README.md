@@ -470,3 +470,93 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+---
+
+## 🔷 Topic 6: **Trees (Binary Trees + BST)**  
+🕒 **Recommended Time**: ~6–7 days
+
+---
+
+### 📅 Day 1 – **Binary Tree Basics + Traversals**
+
+1. Build Binary Tree from Array / Input  
+2. Inorder, Preorder, Postorder Traversal (Recursive)  
+3. Level Order Traversal (BFS)  
+4. Height / Depth of a Binary Tree  
+5. Count Nodes, Leaf Nodes, Diameter of Tree  
+6. Mirror of Binary Tree
+
+> 🎯 Goal: Master basic structure & traversals (recursive + iterative)
+
+---
+
+### 📅 Day 2 – **Binary Search Tree (BST) Basics**
+
+1. Insert, Search, Delete in BST  
+2. Validate if Tree is BST  
+3. Find Floor & Ceil in BST  
+4. Kth Smallest/Largest Element in BST  
+5. Lowest Common Ancestor (LCA) in BST  
+6. Convert Sorted Array to BST
+
+> 🎯 Goal: Practice recursive BST logic + in-order property
+
+---
+
+### 📅 Day 3 – **Advanced Traversals & Techniques**
+
+1. Iterative Inorder, Preorder, Postorder  
+2. Morris Traversal (Inorder without stack/recursion)  
+3. Zigzag / Spiral Order Traversal  
+4. Vertical Order Traversal  
+5. Boundary Traversal  
+6. Top View / Bottom View / Left View / Right View
+
+> 🎯 Goal: Solve BFS-based structured view problems
+
+---
+
+### 📅 Day 4 – **Binary Tree: Important Patterns**
+
+1. Maximum Path Sum  
+2. Check if Tree is Balanced  
+3. Symmetric Tree  
+4. Root to Leaf Path Sum  
+5. Print All Root to Leaf Paths  
+6. Path Sum Equals Target (All Paths)
+
+---
+
+### 📅 Day 5 – **Tree Construction Problems**
+
+1. Build Tree from Inorder + Preorder  
+2. Build Tree from Inorder + Postorder  
+3. Serialize and Deserialize Binary Tree  
+4. Flatten Binary Tree to Linked List  
+5. Binary Tree to DLL  
+6. Tree to Sum Tree
+
+> 🎯 Goal: Master reconstructive recursion
+
+---
+
+### 📅 Day 6 – **Binary Tree LCA + Ancestors + Diameter**
+
+1. LCA in Binary Tree  
+2. Distance Between Two Nodes  
+3. Nodes at K Distance from Target  
+4. Diameter of Binary Tree (optimized)  
+5. Burning Tree Problem  
+6. Time to Burn Tree from Leaf Node (Fire Spread)
+
+---
+
+### 📅 Day 7 – **Mock + Revision Day**
+
+- Attempt 6–8 mixed-level problems  
+- Rebuild tree from traversals  
+- One full pass of LCA, diameter, views
+
+---
+
+
