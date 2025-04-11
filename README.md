@@ -614,4 +614,59 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 
 ---
 
+---
+
+## 🔷 Topic 8: **Tries (Prefix Trees)**  
+🕒 **Recommended Time**: ~3–4 days
+
+---
+
+### 📅 Day 1 – **Trie Basics + Implementation**
+
+1. Implement Trie (Insert, Search, StartsWith)  
+2. Search Word in Trie  
+3. Delete Word from Trie  
+4. Count Words with Given Prefix  
+5. Longest Prefix Matching (like T9 prediction)  
+6. Auto-Complete Feature using Trie
+
+> 🎯 Goal: Understand node-based prefix tree structure & operations
+
+---
+
+### 📅 Day 2 – **Pattern Matching + Word Problems**
+
+1. Word Dictionary with Wildcard Search (`.`, like LeetCode 211)  
+2. Word Break I (DP + Trie variant)  
+3. Word Break II (Backtracking + Trie optional)  
+4. Word Search II (Backtracking + Trie)  
+5. Replace Words (Dictionary Based Sentence Rewriting)  
+6. Maximum XOR of Two Numbers in an Array
+
+> 🎯 Goal: Combine trie with recursion, backtracking & DP
+
+---
+
+### 📅 Day 3 – **Advanced Applications**
+
+1. Most Frequent Word in Stream  
+2. Unique Prefix for Every Word  
+3. Number of Distinct Substrings in a String  
+4. Suffix Trie / Suffix Automaton (optional advanced)  
+5. Palindrome Pairs (Hard but killer problem)  
+6. Trie + Bitmasking Combo Problems
+
+> 🎯 Goal: Use Trie with other patterns (bitmasking, DFS, streams)
+
+---
+
+### 📅 Day 4 – **Mock & Revision**
+
+- Rebuild Trie from scratch  
+- Solve 5–6 problems across all types  
+- Mix of autocomplete + word break + pattern matching
+
+---
+
+
 
