@@ -200,3 +200,55 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 24. Remove Invalid Parentheses  
 
 ---
+
+---
+
+## 🔷 **Hashing / HashMaps / HashSets**
+
+### 🧠 **Core Concepts You Should Know First**
+- Hash Functions & Collisions (theory)
+- HashMap vs HashSet
+- Time Complexity for operations
+- How to use them in frequency counting, lookups, etc.
+
+---
+
+## 🔥 Hashing – Tiered Problem Set
+
+### 🟢 **Beginner**
+
+1. **Count Frequency of Elements in Array**
+2. **Check if Two Arrays are Equal (unordered)**
+3. **Check if a String is Anagram of Another**
+4. **First Non-Repeating Character in a String**
+5. **Find Element with Odd Occurrences**
+6. **Find Duplicates in Array**
+7. **Union and Intersection of Two Arrays**
+8. **Find the Missing Number (1 to n)**
+
+---
+
+### 🟡 **Intermediate**
+
+9. **Longest Consecutive Sequence**
+10. **Subarray with 0 Sum**
+11. **Count Subarrays with Given Sum**
+12. **4-Sum / 3-Sum Problem**
+13. **Group Anagrams**
+14. **Isomorphic Strings**
+15. **Top K Frequent Elements**
+16. **Check if Array can be Divided in Pairs with Equal Sum**
+17. **Longest Subarray with Equal 0s and 1s**
+
+---
+
+### 🔴 **Advanced**
+
+18. **Count Distinct Elements in Every Window (Size K)**
+19. **Minimum Window Substring (HashMap based)**
+20. **Smallest Subarray with All Occurrences of Most Frequent Element**
+21. **Check for Subarray with Equal Number of 1s and 0s**
+22. **Maximum Points on a Line (custom hash with precision)**
+23. **Implement LRU Cache (HashMap + DLL)**
+
+---
