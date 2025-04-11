@@ -76,3 +76,39 @@ We'll move in increasing order of complexity. Here's your DSA Topics Blueprint:
 - Fast Exponentiation, Combinatorics
 
 ---
+
+
+Bilkul. Here's the roadmap again, but this time with **recommended durations** next to each topic. These durations assume **consistent focused effort (~2–3 hours/day)**. The total is roughly **10–12 weeks** for mastery-level prep. You can speed up or stretch it based on your pace.
+
+---
+
+### 🚀 DSA Roadmap with Timelines
+
+| # | Topic | Duration |
+|--|-------|----------|
+| 1 | **Arrays & Strings** | 6–7 days |
+| 2 | **Hashing / HashMaps / Sets** | 4–5 days |
+| 3 | **Recursion & Backtracking** | 6–7 days |
+| 4 | **Linked List** | 4–5 days |
+| 5 | **Stacks & Queues** | 4–5 days |
+| 6 | **Trees (Binary Trees + BST)** | 6–7 days |
+| 7 | **Heaps / Priority Queue** | 3–4 days |
+| 8 | **Tries** | 3–4 days |
+| 9 | **Greedy Algorithms** | 4–5 days |
+| 10 | **Divide and Conquer** | 3–4 days |
+| 11 | **Dynamic Programming (DP)** | 10–12 days |
+| 12 | **Graphs (BFS, DFS, MST, etc.)** | 10–12 days |
+| 13 | **Sliding Window & Two Pointers (in-depth)** | 3–4 days |
+| 14 | **Bit Manipulation** | 3–4 days |
+| 15 | **Mathematics & Number Theory** | 3–4 days |
+
+---
+
+### ⏳ Total Estimated Time: ~70–80 days (≈ 10–12 weeks)
+
+This includes buffer time for:
+- Practice problems (LeetCode/Codeforces)
+- Revision & mock tests
+- Tough concepts you may need to revisit
+
+---
