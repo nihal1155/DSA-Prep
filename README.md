@@ -403,3 +403,70 @@ Sahi pakde hain. **Arrays** and **Strings** deserve their own spotlight, even if
 - Solve at least 1 **Merge K Sorted Lists** or **Copy List with Random Pointer** from memory
 
 ---
+
+---
+
+## 🔷 Topic 5: **Stacks & Queues**  
+🕒 **Recommended Time**: ~4–5 days
+
+---
+
+### 📅 Day 1 – **Basics + Stack Implementation**
+
+1. Implement Stack using Array  
+2. Implement Stack using Linked List  
+3. Infix to Postfix Conversion  
+4. Evaluate Postfix Expression  
+5. Valid Parentheses  
+6. Min Stack (O(1) getMin)  
+7. Next Greater Element (Brute + Stack)
+
+> 🎯 Goal: Understand LIFO behavior and expression handling
+
+---
+
+### 📅 Day 2 – **Queue Variants + Circular Queue**
+
+1. Implement Queue using Array  
+2. Implement Queue using Stack  
+3. Circular Queue Implementation  
+4. Deque (Double-ended Queue)  
+5. First Non-Repeating Character in Stream  
+6. Implement Stack using Queues
+
+> 🎯 Goal: Build mental models for FIFO and two-stack manipulations
+
+---
+
+### 📅 Day 3 – **Monotonic Stack / Pattern Problems**
+
+1. Largest Rectangle in Histogram  
+2. Trapping Rain Water (using Stack)  
+3. Daily Temperatures  
+4. Remove K Digits  
+5. Asteroid Collision  
+6. Score of Parentheses
+
+> 🎯 Goal: Use stacks for **monotonic patterns** and optimal solutions
+
+---
+
+### 📅 Day 4 – **Sliding Window + Deque Based Problems**
+
+1. Sliding Window Maximum (Deque)  
+2. First Negative Integer in Every Window of Size K  
+3. Sum of Minimums of All Subarrays  
+4. Stock Span Problem  
+5. Maximum of All Subarrays of Size K  
+6. Circular Tour / Petrol Pump Problem
+
+---
+
+### 📅 Day 5 – **Mock + Mixed Problems**
+
+- Mix of 5–6 timed problems (Stacks, Queues, Deques)  
+- Revisit one implementation-heavy problem (e.g. Min Stack, LRU)  
+- Revise monotonic stack pattern & sliding window template
+
+---
+
